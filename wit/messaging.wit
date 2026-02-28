@@ -1,4 +1,4 @@
-package omnia:messaging@0.2.0-draft;
+package wasi:messaging@0.2.0-draft;
 
 /// The `imports` world defines the interfaces that the component will import from the host.
 /// It includes the `producer` interface for sending messages.
